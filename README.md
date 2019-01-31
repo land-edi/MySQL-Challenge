@@ -1,2 +1,2 @@
 # MySQL-Challenge
-MySQL queries
+Solve MySQL challenge questions on SAKILA DB
